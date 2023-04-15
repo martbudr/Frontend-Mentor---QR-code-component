@@ -23,8 +23,8 @@ This is a page showing a QR code to the Frontend Mentor site. It works both on d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/martbudr/Frontend-Mentor---QR-code-component)
+- Live Site URL: [Live Site URL](https://martbudr.github.io/Frontend-Mentor---QR-code-component/)
 
 ## My process
 
