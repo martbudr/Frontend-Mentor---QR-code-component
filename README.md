@@ -35,11 +35,10 @@ This is a page showing a QR code to the Frontend Mentor site. It works both on d
 
 ### What I learned
 
-```html
 There wasn't much html to write or learn, as it was mainly a CSS project.
-```
+
+I'm proud that I managed to position the white rectangle on the center of the screen and that the content inside it is positioned in the middle of the rectangle. I learned about padding, which helped me get the look of the content that I wanted to get. I also figured that I need to set the maximum width of the image, which made everything look as intended. Below is the code of the rectangle and the image:
 ```css
-I'm proud that I managed to position the white rectangle on the center of the screen and that the content inside it is positioned in the middle of the rectangle. I learned about padding, which helped me get the look of the content that I wanted to get. I also figured, that I need to set the maximum width of the image, which made everything look as intended. Below is the code of the rectangle and the image:
 .rect{
     background-color: hsl(0, 0%, 100%);
     position: absolute;
@@ -58,7 +57,7 @@ img{
 
 ### Continued development
 
-I need to learn more about the Content Division element (<div>) and its positioning on the page. As I was doing this challenge, I stumbled upon a question of how to place two divs alongside each other - which wasn't something I had to do in this challenge, but a thing that might be useful to be able to do in the future. Aside from that, I need to learn more about different types of positioning content on the page - relative, absolute and so on, and how to use it. Another important thing is scaling the page depending on the device's screen size.
+I need to learn more about the Content Division element (div) and its positioning on the page. As I was doing this challenge, I stumbled upon a question of how to place two divs alongside each other - which wasn't something I had to do in this challenge, but a thing that might be useful to be able to do in the future. Aside from that, I need to learn more about different types of positioning content on the page - relative, absolute and so on, and how to use it. Another important thing is scaling the page depending on the device's screen size.
 
 ## Author
 
