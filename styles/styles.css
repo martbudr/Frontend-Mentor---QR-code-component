@@ -7,7 +7,7 @@ body{
     color: hsl(220, 15%, 55%);
 }
 
-.rect{
+main{
     background-color: hsl(0, 0%, 100%);
     position: absolute;
     top: 50%;
@@ -29,11 +29,11 @@ img{
     max-width: 100%;
 }
 
-img, .rect{
+img, main{
     border-radius: 15px;
 }
 
-.attribution { 
+footer { 
     position: absolute;
     top: 100%;
     left: 50%;
@@ -41,6 +41,6 @@ img, .rect{
     font-size: 11px; 
     text-align: center; 
 }
-.attribution a { 
+footer a { 
     color: hsl(228, 45%, 44%); 
 } 
